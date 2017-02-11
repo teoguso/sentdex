@@ -87,3 +87,5 @@ ENV/
 
 # Rope project settings
 .ropeproject
+sp500_joined_closes.csv
+stock_dfs/
